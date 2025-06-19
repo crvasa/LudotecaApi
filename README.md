@@ -8,7 +8,6 @@
 • Integrazione di un’API esterna (BoardGameGeek API) per la ricerca di giochi non presenti nell'archivio locale
 • Pubblicazione dell’intero progetto su Azure, rendendolo accessibile online via URL
 
-
-##Autori
+## Autori:
 • Giacalone Lorenzo
 • Di Girolami Cristina
